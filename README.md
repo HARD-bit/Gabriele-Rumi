@@ -1,17 +1,25 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, POWER BI (DAX), C/C++, Excle (VBA)
+#### Technical Skills: Python, SQL, Power BI (DAX), C/C++, Excel (VBA)
 
 ## Education							       		
 - B.S., Computer Engineering (_September 2022-Current_)	 			        		
 - B.S., Communication | The University of Insubria (_May 2022_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Analyst @ Publicis Groupe (_May 2024 - Present_)**
+Conducted comprehensive data cleaning, transformation, and integration on an Excel dataset sourced from 
+Salesforces, resolving issues with dirty data to ensure data accuracy and reliability.
+• Reduced time spent on report generation by saving ~90 hours of monthly labor costs and improved the 
+accuracy of reporting by 30% through the development and automation of reports and dashboards using 
+VBA, Power BI and Tableau.
+• Aggregated +10 Million data from over 20 sources to build the foundation of a new product led to an 80% 
+increase in accuracy using Phyton and SQL.
+• Optimized over 10 SQL queries runtime resulting in 20% improved performance in report load time, finding 
+& reporting data trends, bottlenecks & edge cases weekly and proposing & implementing solutions
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+
+**Security Supervisor Analyst @ Trinseo Altuglas (_June 2023 - May 2024)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
