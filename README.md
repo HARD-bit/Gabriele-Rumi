@@ -20,8 +20,15 @@ increase in accuracy using Phyton and SQL.
 
 
 **Security Supervisor Analyst @ Trinseo Altuglas (_June 2023 - May 2024)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Analyzed and interpreted complex data sets, developing and implementing data collection system to identify 
+correlation between company vulnerability to various hazards and the probability of happening.
+- Worked on the Risk Assessment Report to prevent and protect the company’s assets, thru data driven 
+investigation, collaborating with employees, firemen, technicians, insurers and engineers. 
+- Performed building and roving patrols, prepared incident reports and taking recommended appropriate 
+follow up actions; responded to alarms and dispatched calls; decided what actions to take based on the 
+situation, facts are known, and position limitations.
+- Cultivated open lines of communication with security staff, supervision, and clients optimized management 
+development and implementation of updated security protocols to address fire and criminal hazards.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
