@@ -31,7 +31,7 @@ situation, facts are known, and position limitations.
 development and implementation of updated security protocols to address fire and criminal hazards.
 
 
-**Security Supervisor Analyst @ Ministry of the Interior (_Genuary 2020 - February 2023_)**
+**Firefighter @ Ministry of the Interior (_Genuary 2020 - February 2023_)**
 - Managed to quickly and firmly response to life threatening situation, collaborating with a team of +7 firemen 
 to coordinating the intervention and prevent any possibility of dangerous casualties, protecting the 
 population and the city assets.
