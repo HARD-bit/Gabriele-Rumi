@@ -1,9 +1,9 @@
 # Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, POWER BI (DAX), C/C++, Excle (VBA)
 
 ## Education							       		
-- B.S.,Computer Engineering (_September 2022-Current_)	 			        		
+- B.S., Computer Engineering (_September 2022-Current_)	 			        		
 - B.S., Communication | The University of Insubria (_May 2022_)
 
 ## Work Experience
