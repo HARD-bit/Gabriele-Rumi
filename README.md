@@ -8,15 +8,15 @@
 
 ## Work Experience
 **Data Analyst @ Publicis Groupe (_May 2024 - Present_)**
-Conducted comprehensive data cleaning, transformation, and integration on an Excel dataset sourced from 
+- Conducted comprehensive data cleaning, transformation, and integration on an Excel dataset sourced from 
 Salesforces, resolving issues with dirty data to ensure data accuracy and reliability.
-• Reduced time spent on report generation by saving ~90 hours of monthly labor costs and improved the 
+- Reduced time spent on report generation by saving ~90 hours of monthly labor costs and improved the 
 accuracy of reporting by 30% through the development and automation of reports and dashboards using 
 VBA, Power BI and Tableau.
-• Aggregated +10 Million data from over 20 sources to build the foundation of a new product led to an 80% 
+- Aggregated +10 Million data from over 20 sources to build the foundation of a new product led to an 80% 
 increase in accuracy using Phyton and SQL.
-• Optimized over 10 SQL queries runtime resulting in 20% improved performance in report load time, finding 
-& reporting data trends, bottlenecks & edge cases weekly and proposing & implementing solutions
+- Optimized over 10 SQL queries runtime resulting in 20% improved performance in report load time, finding 
+& reporting data trends, bottlenecks & edge cases weekly and proposing & implementing solutions.
 
 
 **Security Supervisor Analyst @ Trinseo Altuglas (_June 2023 - May 2024)**
